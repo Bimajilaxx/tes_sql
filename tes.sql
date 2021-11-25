@@ -1,0 +1,1 @@
+select * from pegawai where jabatan like '%staff%' and tanggal_masuk <= date('2018-09-01')
